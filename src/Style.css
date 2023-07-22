@@ -1,0 +1,29 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+   }
+   
+   .form-group {
+     margin-bottom: 15px;
+   }
+   
+   label {
+     display: block;
+   }
+   
+   input[type="text"],
+   input[type="password"] {
+       padding: 8px;
+       height: 10px;
+       border-radius: 6px;
+   }
+   
+   .button{
+     color: white;
+     background-color: orangered;
+      width: 8%;
+      border: none;
+      padding: 6px;
+      border-radius: 6px;
+   }
